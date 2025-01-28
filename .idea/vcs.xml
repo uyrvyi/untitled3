@@ -3,5 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo-pojo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tlias-parent" vcs="Git" />
   </component>
 </project>
